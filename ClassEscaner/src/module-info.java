@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author usuario
+ *
+ */
+module ClassEscaner {
+}
